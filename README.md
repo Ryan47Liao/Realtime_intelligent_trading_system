@@ -1,8 +1,9 @@
-# Realtime_intelligent_trading_system
-This is the final project of MSCA31008, real time intellegent system. In this project, we implemented an intellegent system that trades Bitcoin automatically based on streaming tweets.
+# Realtime intelligent trading system for Bitcoin
+### Project Overview 
+This is the final project of MSCA31008, real time intellegent system. In this project, we implemented an intellegent system that trades Bitcoin automatically based on streaming tweets and streaming google search index.
 
-|Team Member|Role|Description|
+|Team Member|Role|LinkedIn|
 |:---:|:-:|:-|
-|[**Milan Toolsidas**](https://github.com/mtoolsidas)|xxx|Checking if we meet the criteria of the assignments, formatting the PowerPoints and reports|
-|[**Kenji Laurens**](https://github.com/klaurens)|xxx|Creating agendas for each meeting, making sure other roles’ expectations are meet|
-|[**Ryan Liao**](https://github.com/Ryan47Liao)|xxx|Providing constructive critical opinions, observing team dynamics|
+|[**Milan Toolsidas**](https://github.com/mtoolsidas)|collaborator|https://www.linkedin.com/in/kenjilaurens/|
+|[**Kenji Laurens**](https://github.com/klaurens)|collaborator|https://www.linkedin.com/in/milantoolsidas/|
+|[**Ryan Liao**](https://github.com/Ryan47Liao)|team lead|https://www.linkedin.com/in/bowen-liao/|
