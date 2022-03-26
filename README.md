@@ -34,10 +34,18 @@ The bitcoin tweets have very low subjectivity, thus not ideal for sentiment anal
 ![image](https://user-images.githubusercontent.com/62736640/160001781-de770554-6b32-4d78-8e85-051fc713df21.png)
 
 ## Trading Strategy Design
+![image](https://user-images.githubusercontent.com/62736640/160226779-be7185c6-370a-4787-a03c-822be8d3c091.png)
 
 ## Backtesting
+![image](https://user-images.githubusercontent.com/62736640/160226790-7862b363-cc12-4eef-895d-ef7256df6d06.png)
+![image](https://user-images.githubusercontent.com/62736640/160226796-05681644-fda7-49c8-a9f6-19f6c984af7b.png)
+![image](https://user-images.githubusercontent.com/62736640/160226800-68e29ec0-a9de-496d-9c56-15d602365100.png)
+![image](https://user-images.githubusercontent.com/62736640/160226805-4e651cfd-f59e-4aa4-b520-8629d05414a9.png)
+![image](https://user-images.githubusercontent.com/62736640/160226809-5819e5f6-cc81-48e9-97e1-ef3a790982d6.png)
+![image](https://user-images.githubusercontent.com/62736640/160226812-1c19e521-fb25-4d31-9ee7-b4145fbaacf6.png)
 
 ## System design 
+![image](https://user-images.githubusercontent.com/62736640/160226818-7d175c59-eb8a-4b76-8d65-52c7be2732d7.png)
 
 ## Future work
 ![image](https://user-images.githubusercontent.com/62736640/160001982-de8e27e8-fe52-4e63-a423-1a9fe1b5d2bc.png)
